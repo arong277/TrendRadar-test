@@ -173,6 +173,7 @@
 
 /qwen|minimax|glm/ => 国产开源模型
 
+/\bAsia-Pacific Economic Cooperation\b|APEC|深圳|大湾区|香港/ => APEC会议
 /特斯拉|马斯克|\bTesla\b|\bElon Musk\b|\bCybertruck\b|\bModel 3\b|\bModel Y\b|\bModel S\b|\bModel X\b|\bFSD\b/ => 特斯拉
 
 /英伟达|黄仁勋|\bNVIDIA\b|\bGeForce\b|\bRTX\b|\bCUDA\b|\bJensen Huang\b/ => 英伟达
